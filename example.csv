@@ -1,0 +1,181 @@
+c軟f纖o硬ep上e眼耳rt十層l淋b骨血h心血管,-help
+Basophil,b-b
+Eosinophil,b-e
+externa elastic lamina,b-ee
+internal elastic membrane,b-ie
+Lymphocyte,b-l
+Monocyte,b-m
+Neutrophil,b-n
+Platelet,b-p
+Chondrocyte,c-c
+Elastic cartilage,c-e
+Hyaline cartilage,c-h
+Isogenic group,c-ig
+Interterritorial matrix,c-im
+Lacunae,c-l
+Matrix,c-m
+Perichondrium,c-pc
+Territorial matrix,c-tm
+collagen fiber,cf
+arachnoid membrane,cns-a
+dura mater,cns-dm
+ependyma cell,cns-ep
+granule layer,cns-g
+molecular layer,cns-m
+pyramidal neurons,cns-n
+purkinje cell,cns-pk
+pia mater,cns-pm
+connective tissue,-ct
+Adipocyte,ct-a
+Dense irregular connective tissue,ct-di
+Dense regular connective tissue,ct-dr
+Elastin,ct-e
+Fat cell,ct-f
+Loose connective tissue,ct-l
+Mast cell,ct-m
+Macrophage,ct-mp
+Plasma cell,ct-p
+dust cell,dc
+sclera,e-1f
+choroid,e-1v
+cornea,e-2f
+iris,e-2v
+auditory tube,e-at
+basilar membrane,e-bm
+cornea,e-c
+cochlea,e-cc
+cochlear duct,e-cd
+choroid,e-ch
+ciliary body,e-ci
+conjunctiva,e-cn
+cupula,e-cp
+crista,e-cr
+tunica fibrosa,e-f
+iris,e-i
+inner hair cell,e-ihc
+inner tunnel,e-it
+middle ear,e-m
+tunica nervosa,e-n
+optic nerve,e-n
+outer hair cell,e-ohc
+ora serrata,e-os
+pigmented layer,e-p
+retina,e-r
+sclera,e-s
+supporting cell,e-sc
+spiral ganglion,e-sg
+scala tympani,e-st
+scala vestibuli,e-sv
+tectorial membrane,e-tm
+tunica vasculosa,e-v
+membrane vertibularis,e-vm
+elastic fiber,ef
+epithelium,-ep
+Simple cuboidal,ep-cb
+Simple columnar,ep-cl
+keratinized,ep-k
+Pseudodtratified,ep-p
+Simple squamous,ep-s
+Stratified cuboidal,ep-scb
+Stratified columnar,ep-scl
+Stratified squamous,ep-ss
+Transitional,ep-t
+unkeratinized,ep-u
+Fibroblast,f-b
+Collagen fiber,f-c
+Calcification zone,f-cz
+Elastic fiber,f-e
+Endochondral ossification,f-eo
+Hypertrophy zone,f-hz
+Intramembranous ossification,f-io
+Mesenchymal cell,f-m
+Osteocyte,f-ocyt
+Osteoblast,f-osb
+Osteoid,f-ostd
+Ossification zone,f-oz
+Proliferation zone,f-pz
+Reticular fiber,f-r
+Resting zone,f-rz
+goblet cell,gc
+Arteriole,h-a
+Capillaries,h-c
+Elastic artery,h-e
+Musclar artery,h-m
+medium vein,h-mv
+Purkinje fiber,h-p
+Vasa vasorum,h-vv
+germinal center,I-gc
+kuffer cell,kc
+afferent lympathic vessels,l-af
+afferent lympathic vessels,l-aff
+central artery,l-ca
+capsule,l-cap
+germinal center,l-cen
+epithelial reticular cell,l-cepi
+cortex,l-cor
+capsule,l-cp
+efferent lympathic vessels,l-ef
+efferent lympathic vessels,l-eff
+epithelial reticular cell,l-er
+medulla,l-m
+mantle zone,l-man
+medulla,l-med
+thymic corpuscles,l-mepi
+medullary sinus,l-ms
+lymph node,l-n
+lymph nodule,l-ndl
+lymph nodule,l-nod
+red pulp,l-re
+reticular cell,l-ret
+spleen,l-s
+central artery,l-sa
+spleen,l-sp
+subcapsular sinus,l-ss
+stroma,l-str
+thymus,l-t
+thymus,l-th
+trabeculae,l-tra
+trabecular sinus,l-ts
+white pulp,l-wh
+Cardiac muscle,m-c
+Intercalated disc,m-id
+Skeletal mescle,m-sk
+Smooth muscle,m-sm
+Macrophage,mp
+myelin sheath,ms
+nerve,-n
+astrocyte,n-a
+ependymal canal,n-e
+microglia,n-m
+neurone,n-n
+neuropil,n-np
+nissl body,n-ns
+oligodendrocyte,n-o
+Canaliculus,o-c
+Haversian canal,o-hc
+Lacunae,o-l
+Osteocyte,o-ocyt
+Osteon,o-osn
+Spicule,o-s
+Trabeculae,o-t
+Volkmann’s canal,o-vc
+endoneurium,pns-en
+epineurium,pns-ep
+perineurium,pns-per
+schwann cell,pns-sch
+myelin sheath,pns-sh
+reticular fiber,rf
+spinal cord,sp-c
+central canal,sp-cc
+gray matter,sp-g
+white matter,sp-w
+pigmented epithelium,rt-1
+segment layer of rods and cones,rt-2
+external limiting membrane,rt-3
+outer nuclear layer,rt-4
+outer plexiform layer,rt-5
+inner nuclear layer,rt-6
+inner plexiform layer,rt-7
+ganglion cell layer,rt-8
+nerve fiber layer,rt-9
+inner limiting membrane,rt-10

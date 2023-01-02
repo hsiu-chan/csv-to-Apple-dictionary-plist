@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>c軟f纖o硬ep上e眼耳rt十層l淋b骨血h心血管</string>
+		<key>shortcut</key>
+		<string>-help</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Basophil</string>
+		<key>shortcut</key>
+		<string>b-b</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Eosinophil</string>
+		<key>shortcut</key>
+		<string>b-e</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>externa elastic lamina</string>
+		<key>shortcut</key>
+		<string>b-ee</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>internal elastic membrane</string>
+		<key>shortcut</key>
+		<string>b-ie</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Lymphocyte</string>
+		<key>shortcut</key>
+		<string>b-l</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Monocyte</string>
+		<key>shortcut</key>
+		<string>b-m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Neutrophil</string>
+		<key>shortcut</key>
+		<string>b-n</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Platelet</string>
+		<key>shortcut</key>
+		<string>b-p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Chondrocyte</string>
+		<key>shortcut</key>
+		<string>c-c</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Elastic cartilage</string>
+		<key>shortcut</key>
+		<string>c-e</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Hyaline cartilage</string>
+		<key>shortcut</key>
+		<string>c-h</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Isogenic group</string>
+		<key>shortcut</key>
+		<string>c-ig</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Interterritorial matrix</string>
+		<key>shortcut</key>
+		<string>c-im</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Lacunae</string>
+		<key>shortcut</key>
+		<string>c-l</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Matrix</string>
+		<key>shortcut</key>
+		<string>c-m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Perichondrium</string>
+		<key>shortcut</key>
+		<string>c-pc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Territorial matrix</string>
+		<key>shortcut</key>
+		<string>c-tm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>collagen fiber</string>
+		<key>shortcut</key>
+		<string>cf</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>arachnoid membrane</string>
+		<key>shortcut</key>
+		<string>cns-a</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>dura mater</string>
+		<key>shortcut</key>
+		<string>cns-dm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ependyma cell</string>
+		<key>shortcut</key>
+		<string>cns-ep</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>granule layer</string>
+		<key>shortcut</key>
+		<string>cns-g</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>molecular layer</string>
+		<key>shortcut</key>
+		<string>cns-m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>pyramidal neurons</string>
+		<key>shortcut</key>
+		<string>cns-n</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>purkinje cell</string>
+		<key>shortcut</key>
+		<string>cns-pk</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>pia mater</string>
+		<key>shortcut</key>
+		<string>cns-pm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>connective tissue</string>
+		<key>shortcut</key>
+		<string>-ct</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Adipocyte</string>
+		<key>shortcut</key>
+		<string>ct-a</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Dense irregular connective tissue</string>
+		<key>shortcut</key>
+		<string>ct-di</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Dense regular connective tissue</string>
+		<key>shortcut</key>
+		<string>ct-dr</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Elastin</string>
+		<key>shortcut</key>
+		<string>ct-e</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Fat cell</string>
+		<key>shortcut</key>
+		<string>ct-f</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Loose connective tissue</string>
+		<key>shortcut</key>
+		<string>ct-l</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Mast cell</string>
+		<key>shortcut</key>
+		<string>ct-m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Macrophage</string>
+		<key>shortcut</key>
+		<string>ct-mp</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Plasma cell</string>
+		<key>shortcut</key>
+		<string>ct-p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>dust cell</string>
+		<key>shortcut</key>
+		<string>dc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>sclera</string>
+		<key>shortcut</key>
+		<string>e-1f</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>choroid</string>
+		<key>shortcut</key>
+		<string>e-1v</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cornea</string>
+		<key>shortcut</key>
+		<string>e-2f</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>iris</string>
+		<key>shortcut</key>
+		<string>e-2v</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>auditory tube</string>
+		<key>shortcut</key>
+		<string>e-at</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>basilar membrane</string>
+		<key>shortcut</key>
+		<string>e-bm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cornea</string>
+		<key>shortcut</key>
+		<string>e-c</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cochlea</string>
+		<key>shortcut</key>
+		<string>e-cc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cochlear duct</string>
+		<key>shortcut</key>
+		<string>e-cd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>choroid</string>
+		<key>shortcut</key>
+		<string>e-ch</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ciliary body</string>
+		<key>shortcut</key>
+		<string>e-ci</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>conjunctiva</string>
+		<key>shortcut</key>
+		<string>e-cn</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cupula</string>
+		<key>shortcut</key>
+		<string>e-cp</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>crista</string>
+		<key>shortcut</key>
+		<string>e-cr</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>tunica fibrosa</string>
+		<key>shortcut</key>
+		<string>e-f</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>iris</string>
+		<key>shortcut</key>
+		<string>e-i</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>inner hair cell</string>
+		<key>shortcut</key>
+		<string>e-ihc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>inner tunnel</string>
+		<key>shortcut</key>
+		<string>e-it</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>middle ear</string>
+		<key>shortcut</key>
+		<string>e-m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>tunica nervosa</string>
+		<key>shortcut</key>
+		<string>e-n</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>optic nerve</string>
+		<key>shortcut</key>
+		<string>e-n</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>outer hair cell</string>
+		<key>shortcut</key>
+		<string>e-ohc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ora serrata</string>
+		<key>shortcut</key>
+		<string>e-os</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>pigmented layer</string>
+		<key>shortcut</key>
+		<string>e-p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>retina</string>
+		<key>shortcut</key>
+		<string>e-r</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>sclera</string>
+		<key>shortcut</key>
+		<string>e-s</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>supporting cell</string>
+		<key>shortcut</key>
+		<string>e-sc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>spiral ganglion</string>
+		<key>shortcut</key>
+		<string>e-sg</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>scala tympani</string>
+		<key>shortcut</key>
+		<string>e-st</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>scala vestibuli</string>
+		<key>shortcut</key>
+		<string>e-sv</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>tectorial membrane</string>
+		<key>shortcut</key>
+		<string>e-tm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>tunica vasculosa</string>
+		<key>shortcut</key>
+		<string>e-v</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>membrane vertibularis</string>
+		<key>shortcut</key>
+		<string>e-vm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>elastic fiber</string>
+		<key>shortcut</key>
+		<string>ef</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>epithelium</string>
+		<key>shortcut</key>
+		<string>-ep</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Simple cuboidal</string>
+		<key>shortcut</key>
+		<string>ep-cb</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Simple columnar</string>
+		<key>shortcut</key>
+		<string>ep-cl</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>keratinized</string>
+		<key>shortcut</key>
+		<string>ep-k</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Pseudodtratified</string>
+		<key>shortcut</key>
+		<string>ep-p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Simple squamous</string>
+		<key>shortcut</key>
+		<string>ep-s</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Stratified cuboidal</string>
+		<key>shortcut</key>
+		<string>ep-scb</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Stratified columnar</string>
+		<key>shortcut</key>
+		<string>ep-scl</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Stratified squamous</string>
+		<key>shortcut</key>
+		<string>ep-ss</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Transitional</string>
+		<key>shortcut</key>
+		<string>ep-t</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>unkeratinized</string>
+		<key>shortcut</key>
+		<string>ep-u</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Fibroblast</string>
+		<key>shortcut</key>
+		<string>f-b</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Collagen fiber</string>
+		<key>shortcut</key>
+		<string>f-c</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Calcification zone</string>
+		<key>shortcut</key>
+		<string>f-cz</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Elastic fiber</string>
+		<key>shortcut</key>
+		<string>f-e</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Endochondral ossification</string>
+		<key>shortcut</key>
+		<string>f-eo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Hypertrophy zone</string>
+		<key>shortcut</key>
+		<string>f-hz</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Intramembranous ossification</string>
+		<key>shortcut</key>
+		<string>f-io</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Mesenchymal cell</string>
+		<key>shortcut</key>
+		<string>f-m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Osteocyte</string>
+		<key>shortcut</key>
+		<string>f-ocyt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Osteoblast</string>
+		<key>shortcut</key>
+		<string>f-osb</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Osteoid</string>
+		<key>shortcut</key>
+		<string>f-ostd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Ossification zone</string>
+		<key>shortcut</key>
+		<string>f-oz</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Proliferation zone</string>
+		<key>shortcut</key>
+		<string>f-pz</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Reticular fiber</string>
+		<key>shortcut</key>
+		<string>f-r</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Resting zone</string>
+		<key>shortcut</key>
+		<string>f-rz</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>goblet cell</string>
+		<key>shortcut</key>
+		<string>gc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Arteriole</string>
+		<key>shortcut</key>
+		<string>h-a</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Capillaries</string>
+		<key>shortcut</key>
+		<string>h-c</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Elastic artery</string>
+		<key>shortcut</key>
+		<string>h-e</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Musclar artery</string>
+		<key>shortcut</key>
+		<string>h-m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>medium vein</string>
+		<key>shortcut</key>
+		<string>h-mv</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Purkinje fiber</string>
+		<key>shortcut</key>
+		<string>h-p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Vasa vasorum</string>
+		<key>shortcut</key>
+		<string>h-vv</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>germinal center</string>
+		<key>shortcut</key>
+		<string>I-gc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>kuffer cell</string>
+		<key>shortcut</key>
+		<string>kc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>afferent lympathic vessels</string>
+		<key>shortcut</key>
+		<string>l-af</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>afferent lympathic vessels</string>
+		<key>shortcut</key>
+		<string>l-aff</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>central artery</string>
+		<key>shortcut</key>
+		<string>l-ca</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>capsule</string>
+		<key>shortcut</key>
+		<string>l-cap</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>germinal center</string>
+		<key>shortcut</key>
+		<string>l-cen</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>epithelial reticular cell</string>
+		<key>shortcut</key>
+		<string>l-cepi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cortex</string>
+		<key>shortcut</key>
+		<string>l-cor</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>capsule</string>
+		<key>shortcut</key>
+		<string>l-cp</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>efferent lympathic vessels</string>
+		<key>shortcut</key>
+		<string>l-ef</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>efferent lympathic vessels</string>
+		<key>shortcut</key>
+		<string>l-eff</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>epithelial reticular cell</string>
+		<key>shortcut</key>
+		<string>l-er</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>medulla</string>
+		<key>shortcut</key>
+		<string>l-m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>mantle zone</string>
+		<key>shortcut</key>
+		<string>l-man</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>medulla</string>
+		<key>shortcut</key>
+		<string>l-med</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>thymic corpuscles</string>
+		<key>shortcut</key>
+		<string>l-mepi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>medullary sinus</string>
+		<key>shortcut</key>
+		<string>l-ms</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>lymph node</string>
+		<key>shortcut</key>
+		<string>l-n</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>lymph nodule</string>
+		<key>shortcut</key>
+		<string>l-ndl</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>lymph nodule</string>
+		<key>shortcut</key>
+		<string>l-nod</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>red pulp</string>
+		<key>shortcut</key>
+		<string>l-re</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>reticular cell</string>
+		<key>shortcut</key>
+		<string>l-ret</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>spleen</string>
+		<key>shortcut</key>
+		<string>l-s</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>central artery</string>
+		<key>shortcut</key>
+		<string>l-sa</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>spleen</string>
+		<key>shortcut</key>
+		<string>l-sp</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>subcapsular sinus</string>
+		<key>shortcut</key>
+		<string>l-ss</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>stroma</string>
+		<key>shortcut</key>
+		<string>l-str</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>thymus</string>
+		<key>shortcut</key>
+		<string>l-t</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>thymus</string>
+		<key>shortcut</key>
+		<string>l-th</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>trabeculae</string>
+		<key>shortcut</key>
+		<string>l-tra</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>trabecular sinus</string>
+		<key>shortcut</key>
+		<string>l-ts</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>white pulp</string>
+		<key>shortcut</key>
+		<string>l-wh</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Cardiac muscle</string>
+		<key>shortcut</key>
+		<string>m-c</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Intercalated disc</string>
+		<key>shortcut</key>
+		<string>m-id</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Skeletal mescle</string>
+		<key>shortcut</key>
+		<string>m-sk</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Smooth muscle</string>
+		<key>shortcut</key>
+		<string>m-sm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Macrophage</string>
+		<key>shortcut</key>
+		<string>mp</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>myelin sheath</string>
+		<key>shortcut</key>
+		<string>ms</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>nerve</string>
+		<key>shortcut</key>
+		<string>-n</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>astrocyte</string>
+		<key>shortcut</key>
+		<string>n-a</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ependymal canal</string>
+		<key>shortcut</key>
+		<string>n-e</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>microglia</string>
+		<key>shortcut</key>
+		<string>n-m</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>neurone</string>
+		<key>shortcut</key>
+		<string>n-n</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>neuropil</string>
+		<key>shortcut</key>
+		<string>n-np</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>nissl body</string>
+		<key>shortcut</key>
+		<string>n-ns</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>oligodendrocyte</string>
+		<key>shortcut</key>
+		<string>n-o</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Canaliculus</string>
+		<key>shortcut</key>
+		<string>o-c</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Haversian canal</string>
+		<key>shortcut</key>
+		<string>o-hc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Lacunae</string>
+		<key>shortcut</key>
+		<string>o-l</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Osteocyte</string>
+		<key>shortcut</key>
+		<string>o-ocyt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Osteon</string>
+		<key>shortcut</key>
+		<string>o-osn</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Spicule</string>
+		<key>shortcut</key>
+		<string>o-s</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Trabeculae</string>
+		<key>shortcut</key>
+		<string>o-t</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Volkmann’s canal</string>
+		<key>shortcut</key>
+		<string>o-vc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>endoneurium</string>
+		<key>shortcut</key>
+		<string>pns-en</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>epineurium</string>
+		<key>shortcut</key>
+		<string>pns-ep</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>perineurium</string>
+		<key>shortcut</key>
+		<string>pns-per</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>schwann cell</string>
+		<key>shortcut</key>
+		<string>pns-sch</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>myelin sheath</string>
+		<key>shortcut</key>
+		<string>pns-sh</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>reticular fiber</string>
+		<key>shortcut</key>
+		<string>rf</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>spinal cord</string>
+		<key>shortcut</key>
+		<string>sp-c</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>central canal</string>
+		<key>shortcut</key>
+		<string>sp-cc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>gray matter</string>
+		<key>shortcut</key>
+		<string>sp-g</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>white matter</string>
+		<key>shortcut</key>
+		<string>sp-w</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>pigmented epithelium</string>
+		<key>shortcut</key>
+		<string>rt-1</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>segment layer of rods and cones</string>
+		<key>shortcut</key>
+		<string>rt-2</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>external limiting membrane</string>
+		<key>shortcut</key>
+		<string>rt-3</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>outer nuclear layer</string>
+		<key>shortcut</key>
+		<string>rt-4</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>outer plexiform layer</string>
+		<key>shortcut</key>
+		<string>rt-5</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>inner nuclear layer</string>
+		<key>shortcut</key>
+		<string>rt-6</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>inner plexiform layer</string>
+		<key>shortcut</key>
+		<string>rt-7</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ganglion cell layer</string>
+		<key>shortcut</key>
+		<string>rt-8</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>nerve fiber layer</string>
+		<key>shortcut</key>
+		<string>rt-9</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>inner limiting membrane</string>
+		<key>shortcut</key>
+		<string>rt-10</string>
+	</dict>
+</array>
+</plist>
