@@ -4,10 +4,6 @@ import csv
 csv_path='example.csv'
 plist_path=csv_path.split('.')[0]+'.plist'
 
-
-#for line in csv:
-    #pl.append({l[0]:l[1] for l in list(zip(key,#line))})
-
 with open(csv_path, newline='') as csvfile:
 
     result=[]
