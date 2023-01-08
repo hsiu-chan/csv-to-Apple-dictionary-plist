@@ -1,181 +1,304 @@
-c軟f纖o硬ep上e眼耳rt十層l淋b骨血h心血管,-help
-Basophil,b-b
-Eosinophil,b-e
-externa elastic lamina,b-ee
-internal elastic membrane,b-ie
-Lymphocyte,b-l
-Monocyte,b-m
-Neutrophil,b-n
-Platelet,b-p
-Chondrocyte,c-c
-Elastic cartilage,c-e
-Hyaline cartilage,c-h
-Isogenic group,c-ig
-Interterritorial matrix,c-im
-Lacunae,c-l
-Matrix,c-m
-Perichondrium,c-pc
-Territorial matrix,c-tm
-collagen fiber,cf
-arachnoid membrane,cns-a
-dura mater,cns-dm
-ependyma cell,cns-ep
-granule layer,cns-g
-molecular layer,cns-m
-pyramidal neurons,cns-n
-purkinje cell,cns-pk
-pia mater,cns-pm
-connective tissue,-ct
-Adipocyte,ct-a
-Dense irregular connective tissue,ct-di
-Dense regular connective tissue,ct-dr
-Elastin,ct-e
-Fat cell,ct-f
-Loose connective tissue,ct-l
-Mast cell,ct-m
-Macrophage,ct-mp
-Plasma cell,ct-p
-dust cell,dc
-sclera,e-1f
-choroid,e-1v
-cornea,e-2f
-iris,e-2v
-auditory tube,e-at
-basilar membrane,e-bm
-cornea,e-c
-cochlea,e-cc
-cochlear duct,e-cd
-choroid,e-ch
-ciliary body,e-ci
-conjunctiva,e-cn
-cupula,e-cp
-crista,e-cr
-tunica fibrosa,e-f
-iris,e-i
-inner hair cell,e-ihc
-inner tunnel,e-it
-middle ear,e-m
-tunica nervosa,e-n
-optic nerve,e-n
-outer hair cell,e-ohc
-ora serrata,e-os
-pigmented layer,e-p
-retina,e-r
-sclera,e-s
-supporting cell,e-sc
-spiral ganglion,e-sg
-scala tympani,e-st
-scala vestibuli,e-sv
-tectorial membrane,e-tm
-tunica vasculosa,e-v
-membrane vertibularis,e-vm
-elastic fiber,ef
-epithelium,-ep
-Simple cuboidal,ep-cb
-Simple columnar,ep-cl
-keratinized,ep-k
-Pseudodtratified,ep-p
-Simple squamous,ep-s
-Stratified cuboidal,ep-scb
-Stratified columnar,ep-scl
-Stratified squamous,ep-ss
-Transitional,ep-t
-unkeratinized,ep-u
-Fibroblast,f-b
-Collagen fiber,f-c
-Calcification zone,f-cz
-Elastic fiber,f-e
-Endochondral ossification,f-eo
-Hypertrophy zone,f-hz
-Intramembranous ossification,f-io
-Mesenchymal cell,f-m
-Osteocyte,f-ocyt
-Osteoblast,f-osb
-Osteoid,f-ostd
-Ossification zone,f-oz
-Proliferation zone,f-pz
-Reticular fiber,f-r
-Resting zone,f-rz
-goblet cell,gc
-Arteriole,h-a
-Capillaries,h-c
-Elastic artery,h-e
-Musclar artery,h-m
-medium vein,h-mv
-Purkinje fiber,h-p
-Vasa vasorum,h-vv
-germinal center,I-gc
-kuffer cell,kc
-afferent lympathic vessels,l-af
-afferent lympathic vessels,l-aff
-central artery,l-ca
-capsule,l-cap
-germinal center,l-cen
-epithelial reticular cell,l-cepi
-cortex,l-cor
-capsule,l-cp
-efferent lympathic vessels,l-ef
-efferent lympathic vessels,l-eff
-epithelial reticular cell,l-er
-medulla,l-m
-mantle zone,l-man
-medulla,l-med
-thymic corpuscles,l-mepi
-medullary sinus,l-ms
-lymph node,l-n
-lymph nodule,l-ndl
-lymph nodule,l-nod
-red pulp,l-re
-reticular cell,l-ret
-spleen,l-s
-central artery,l-sa
-spleen,l-sp
-subcapsular sinus,l-ss
-stroma,l-str
-thymus,l-t
-thymus,l-th
-trabeculae,l-tra
-trabecular sinus,l-ts
-white pulp,l-wh
-Cardiac muscle,m-c
-Intercalated disc,m-id
-Skeletal mescle,m-sk
-Smooth muscle,m-sm
-Macrophage,mp
-myelin sheath,ms
-nerve,-n
-astrocyte,n-a
-ependymal canal,n-e
-microglia,n-m
-neurone,n-n
-neuropil,n-np
-nissl body,n-ns
-oligodendrocyte,n-o
-Canaliculus,o-c
-Haversian canal,o-hc
-Lacunae,o-l
-Osteocyte,o-ocyt
-Osteon,o-osn
-Spicule,o-s
-Trabeculae,o-t
-Volkmann’s canal,o-vc
-endoneurium,pns-en
-epineurium,pns-ep
-perineurium,pns-per
-schwann cell,pns-sch
-myelin sheath,pns-sh
-reticular fiber,rf
-spinal cord,sp-c
-central canal,sp-cc
-gray matter,sp-g
-white matter,sp-w
-pigmented epithelium,rt-1
-segment layer of rods and cones,rt-2
-external limiting membrane,rt-3
-outer nuclear layer,rt-4
-outer plexiform layer,rt-5
-inner nuclear layer,rt-6
-inner plexiform layer,rt-7
-ganglion cell layer,rt-8
-nerve fiber layer,rt-9
-inner limiting membrane,rt-10
+arteriole,a
+venule,v
+capillry,c
+epithelium,epi
+fibroblast cell,fb.
+lumen,l
+simple,si
+stratified,st
+pseudostratified,ps
+squamous,sq
+cuboidal,cu
+cuboidal,cb
+columnar,co
+columnar,cl
+transitional,tr
+fungiform,fu
+filiform,fi,keratinized 
+foliate,fo,nonkeratinized
+Neurons,ne
+mucosa,mu
+Lamina propria,la
+Lamina propria,lp
+Muscularis mucosa,mm
+Muscularis externa,me
+longitudinal of muscularis,ml 
+Circular of muscularis,mc
+adventitia,ad
+keratinized,ke
+nonkeratinized,nonke
+vallate,va,nonkeratinized
+serous cell,o.se
+serous demilune,o.se1
+mucous cell,o.mu
+Intercalated duct,o.d1,simple squamouscuboidal epi
+striated duct,o.d2,simple cuboidal-columnar epi
+excretory duct,o.d3,simple columnar- pseudostratified epi.
+acinus,o.s1
+Myoepithelial cell,o.myo,salivary外收縮
+enamel,o.en
+Enamel rods,o.en1
+Dentin,o.de
+Dentinal tubules,o.de1
+Pulp cavity,o.pulp
+ameloblasts,o.a 
+odontoblasts,o.o 
+minor salivary gland,o.m
+submandibular,subm
+sublingual,subl
+gland,gl
+papillae,pap
+Cementum,o.ce
+submucosal plexus,gi.p1
+submucosal plexus,gi.psm
+myenteric plexus,gi.p2
+myenteric plexus,gi.pmy
+Muscularis mucosa,gi.mm
+Muscularis externa,gi.me
+Inner Circular of Muscularis externa,gi.mc
+Outer longitudinal of Muscularis externa,gi.ml
+serosa,gi.s
+Lymph nodule,lym1
+small lymphocyte,lym
+esophagus,eso
+Stomach,sto
+surface epithelium cell,gas.epi
+prominent terminal bar,gas.epi1
+Gastric gland,gas.g
+Mucous neck cell,gas.n,尖頭
+Parietal cell,gas.p,酸
+chief cell,gas.c,底部，basophilic
+Enteroendocrine cell,gas.endo,底部，核深染
+Intestine,in
+Goblet cell,gb
+Duodenum,du
+enterocytes,sin.epi,microvilli
+Columnar absorptive cell,sin.c0
+Goblet cell,sin.gb
+Paneth cell,sin.p,acidophilic/底部防禦素(80%)、溶菌酶...
+Paneth cell,sin.c1
+Enteroendocrine cell,sin.endo,底部，一圈透明
+brunner gland,sin.g2,在submucosa
+Intestinal gland,sin.g1
+Circular fold,sin.fold
+lacteal duct,sin.lac
+peyer's patch,sin.lym,在mucosal
+Columnar absorptive cells,lin.epi
+Columnar absorptive cells,lin.c0
+Goblet cell,lin.gb
+Enteroendocrine cells,lin.endo
+Vermiform Appendix,闌尾,lumen: smaller
+Vermiform Appendix,ap 
+large Intestinal gland,lin.g
+Taenia coli,lin.me
+lymph nodule.lin.lym
+bile duct,hep.b 
+branch of hepatic arterial,hep.a 
+branch of hepatic portal vein,hep.v 
+hepatic cord,h.cd,肝細胞一條
+hepatic cord,h.cl,肝細胞一條
+hepatocytes,h.c,核大淡染核仁明顯
+Kupffer cells,h.k,胖橢圓/blue 
+sinusoid,h.sin,hepatic lobule 裏面透明
+space of Disse,h.d,肝細胞與 sinusoid 之間
+space of Disse,h.sp,肝細胞與 sinusoid 之間
+Endothelial cell,h.vc,central v.內皮
+Endothelial cell,h.en,central v.內皮/核細長
+Gallbladder,gall,muscularis&adventitia
+Mucosa fold,gallfold
+serous acini,pan.ex 
+serous acini,pan.a
+Serous acinar cell,pan.ac
+centroacinal cells,pan.ac1
+centroacinal cells,pan.ca,simple squamous/淡橢圓or圓核
+intercalated ducts,pan.d1,simple squamous 
+excretory ducts,pan.d2,simple cuboidal
+Islets of Langerhans,pan.endo 
+Islets of Langerhans,pan.i,淡一圈
+afferent arteriole,re.aa 
+efferent arteriole,re.ea 
+Bowman's space,re.b
+podocytes,re.p,核大淡染核仁明顯微血管外，怪核
+capillaries plexuses,re.inb
+capillaries plexuses,re.c
+vascular pole,re.vp
+urinary pole,re.up
+Proximal convoluted tubule,re.pct,毛毛的 
+Distal convoluted tubule,re.dct,有些核不清楚
+Macula densa,re.d,dct 核聚集
+JG cell,re.jg,afferent arter 特殊平滑肌 
+Collecting tubules,re.coll,一圈核
+Thick descending limbs of Henle`s loop,re.dh,毛毛的
+Thick descending limbs of Henle`s loop,re.h1,毛毛的
+Thick ascending limbs of Henle`s loop,re.ah,有些核不清楚
+Thick ascending limbs of Henle`s loop,re.h3,有些核不清楚
+medullary ray,re.mr,分開皮質
+thin segment of Henles,re.th,薄壁
+thin segment of Henles,re.h2
+Endothelial cell,endo
+ureter,ur.1,縱環縱/adventitia厚/隆起上皮，輻射
+longitudinal of muscularis,ur.lm
+longitudinal of muscularis,ur.ml
+Circular of muscularis,ur.cm 
+Circular of muscularis,ur.mc
+Urinary Bladder,ur.b,縱環縱
+Urinary Bladder,ub.
+urethra,ur.2,長毛海鷗
+Intraepithelial gland,ur.g1,在mucosal裏面/白 
+Intraepithelial gland,ur.gepi
+Littre gland,ur.g2
+Littre gland,ur.gl
+testis,t.0
+Tunica albuginea,t.ct2
+Seminiferous tubule,t.t
+Seminiferous tubule,t.1
+Interstitial tissue,t.ct1,tubules之間
+Spermatogonia,t.s0,basal lamina上
+Primary spermatocyte,t.s1,大花核
+early spermatid,t.s31,圓核深染，髒髒的
+late spermatid,t.s32,錐形核，有鞭毛
+Sertoli cell,t.s,basal lamina上/不規則核/核大淡染核仁明顯
+Leydig cell,t.l,Interstitial tissue 裏面/嗜酸細胞質/核大淡染核仁明顯
+Myoid cell,t.m,nterstitial tissue 裏面細長
+Epididymis,epd.0,pseudostratified columnar/5j/ 管子中間一坨
+principal cell,epd.p, microvilli
+principal cell,epd.c1, microvilli
+basal cell,epd.b,底部
+basal cell,epd.c2
+halo cell,epd.h,深核
+halo cell,epd.c3
+Ductus deferens,dd.,厚肌肉
+Seminal vesicle,sv.,分泌精液，多分支內襯，內環外縱
+Prostatic gland,pg.0
+Prostatic concretions,pg.1
+Fibromuscular stroma,pg.2
+penis,pen.0
+Tunica albuginea,pen.ct1
+Deep fascia,pen.ct2
+trabecula,pen.ct0
+Corpra carverosum,pen.1
+Corpra carverosum,pen.cc
+Corpus spongiosum,pen.2
+Corpus spongiosum,pen.cs
+Endothelium,pen.en,sinus表面
+ovary,ov.0
+Tunica albuginea,ov.ct
+Primordial follicles,ov.s0,一層扁平
+primary oocyte,ov.o0
+follicular cells,ov.f0
+Primary follicles,ov.s1 
+primary oocyte,ov.o1
+primary follicle,ov.f10
+Stratum granulosum,ov.f11
+theca folliculi,ov.t1
+zona pellucida,ov.z
+antrum,ov.a,空腔
+Stratum granulosum,ov.sg
+Secondary follicles,ov.s2,有空洞
+primary oocyte,ov.o2
+stratum granulosum,ov.f2
+theca interna,ov.t21
+theca interna,ov.t21
+Mature follicle,ov.m
+secondary oocyte,ov.om
+stratum granulosa,ov.fm
+cumulus oophorus,ov.fm1
+corona radiata,ov.fm2
+Atretic follicle,ov.gg,壞的
+Corpus luteum,ov.y,大顆一堆血管
+granulosa luteum cell,ov.y1,核大淡染核仁明顯
+theca luteum cell,ov.y2,嗜酸小顆，核深染
+Corpus albicans,ov.w,都是CT
+theca interna,ov.ti 
+theca interna,ov.te
+follicular fluid,ov.ff 
+Uterine tube,ut.1,毛毛的/有a.&v.
+peg cells,ut.p,free space 突起
+ciliated columnar cell,ut.epi,毛毛的
+uterus,ut.0,縱環縱，環走厚有血管
+Endometrium,ut.l1
+functional layer,ut.l11
+basal layer,ut.l12
+Myometrium,ut.l2
+longitudinal Myometrium,ut.ml 
+Circular Myometrium,ut.mc
+Perimetrium,ut.l3
+uterine gland,ut.g
+vagina,vg.0,transitional/表層透明/內環外縱
+Mammary gland,mm.0
+lactiferous duct,mm.d
+lactiferous sinus,mm.s
+acinar cells,mm.c1 
+acinar cells,mm.a
+myoepithelial cell,mm.c2 
+myoepithelial cell,mm.myo
+Interlobar tissue,mm.ct3,dense/adipose
+Interlobular tissue,mm.ct2,dense/blood&fat 
+Intralobular tissue,mm.ct1,loose/no fat
+Pituitary gland,pi.0
+Pars distalis,pi.ant,深
+Pars intermedia,pi.mid
+Pars nervosa,pi.post,淺
+chromophils,pi.gc
+chromophils,pi.g1
+Acidophils,pi.ga
+Basophils,pi.gb
+chromophobes,pi.g2,核聚在一起
+pituicytes,pi.glia
+pituicytes,pi.pi
+Herring bodies,pi.h,紅色實心
+pituicytes,pi.p1,淡核/glia
+pituicytes,pi.glia,淡核/glia
+Herring bodies,pi.p2
+Thyroid gland,thy.0
+Thyroid follicles,thy.f
+Thyroid follicles,thy.1
+follicular cell,thy.fc
+follicular cell,thy.c1
+clear cell,thy.c2,核淡染
+colloid,thy.c
+Parathyroid gland,pth.0
+chief cell,pth.c1,核聚在一起
+oxyphil cell,pth.c2,大顆
+Adrenal gland,ad.0
+zona glomerulosa,ad.c1,深而密
+zona fasciculate,ad.c2,空包長條
+spongiocytes,ad.c2c
+zona reticularis,ad.c3,深而密
+chromaffin cell,ad.mc1
+chromaffin cell,ad.ch
+ganglion cell,ad.mc2,細胞質深染
+Pineal gland,pin.0
+pinealocyte,pin.c1,核大淡染
+pinealocyte,pin.c
+neuroglial cell,pin.n,核深染
+neuroglial cell,pin.c2
+Brain sand,pin.bs
+pseudostratified ciliated columnar epithelium,re.epi
+supporting cell,re.s,核中間 
+besal cell,re.b
+olfactory cell,re.o
+olfactory cell,re.n,核仁明顯
+clara cell,re.c
+type I alveolar cell,re.1,扁
+type II alveolar cell,re.2,圓
+Pacinian corpuscle,ins.n1,在dermis凸起
+Pacinian corpuscle,ins.np
+Meissner corpuscles,ins.n2,大漩渦
+Meissner corpuscles,ins.nc
+Melanocytes,int.m
+Melanocytes,int.c2
+Langerhans cell,ins.l
+Langerhans cell,ins.c1
+Merkel cell,ins.mk
+Merkel cell,ins.c3
+stratum corneum,int.sc
+stratum corneum,int.1
+stratum lucidum,int.sl
+stratum lucidum,int.2
+stratum granulosum,int.sg
+stratum granulosum,int.3
+stratum spinosum,int.ss
+stratum spinosum,int.4
+stratum basale,int.sb
+stratum basale,int.5
