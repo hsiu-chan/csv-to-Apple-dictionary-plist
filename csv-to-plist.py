@@ -13,7 +13,7 @@ with open(csv_path, newline='') as csvfile:
 
     # 以迴圈輸出每一列
     for row in rows:
-        result.append({' '.join(l[0].split()).lower():' '.join(l[1].split()).lower() for l in list(zip(key,row))})
+        result.append({l[0]:l[1] for l in list(zip(key,row))})
 
     with open(plist_path, 'wb') as fp:
         dump(result, fp)

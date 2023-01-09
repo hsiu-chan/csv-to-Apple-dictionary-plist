@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>phrase</key>
-		<string>arteriole</string>
+		<string>﻿arteriole</string>
 		<key>shortcut</key>
 		<string>a</string>
 	</dict>
@@ -112,7 +112,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>neurons</string>
+		<string>Neurons</string>
 		<key>shortcut</key>
 		<string>ne</string>
 	</dict>
@@ -124,25 +124,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>lamina propria</string>
+		<string>Lamina propria</string>
 		<key>shortcut</key>
 		<string>la</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>lamina propria</string>
+		<string>Lamina propria</string>
 		<key>shortcut</key>
 		<string>lp</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>muscularis mucosa</string>
+		<string>Muscularis mucosa</string>
 		<key>shortcut</key>
 		<string>mm</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>muscularis externa</string>
+		<string>Muscularis externa</string>
 		<key>shortcut</key>
 		<string>me</string>
 	</dict>
@@ -150,11 +150,11 @@
 		<key>phrase</key>
 		<string>longitudinal of muscularis</string>
 		<key>shortcut</key>
-		<string>ml</string>
+		<string>ml </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>circular of muscularis</string>
+		<string>Circular of muscularis</string>
 		<key>shortcut</key>
 		<string>mc</string>
 	</dict>
@@ -202,7 +202,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>intercalated duct</string>
+		<string>Intercalated duct</string>
 		<key>shortcut</key>
 		<string>o.d1</string>
 	</dict>
@@ -226,7 +226,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>myoepithelial cell</string>
+		<string>Myoepithelial cell</string>
 		<key>shortcut</key>
 		<string>o.myo</string>
 	</dict>
@@ -238,25 +238,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>enamel rods</string>
+		<string>Enamel rods</string>
 		<key>shortcut</key>
 		<string>o.en1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>dentin</string>
+		<string>Dentin</string>
 		<key>shortcut</key>
 		<string>o.de</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>dentinal tubules</string>
+		<string>Dentinal tubules</string>
 		<key>shortcut</key>
 		<string>o.de1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>pulp cavity</string>
+		<string>Pulp cavity</string>
 		<key>shortcut</key>
 		<string>o.pulp</string>
 	</dict>
@@ -264,13 +264,13 @@
 		<key>phrase</key>
 		<string>ameloblasts</string>
 		<key>shortcut</key>
-		<string>o.a</string>
+		<string>o.a </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>odontoblasts</string>
 		<key>shortcut</key>
-		<string>o.o</string>
+		<string>o.o </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -304,7 +304,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>cementum</string>
+		<string>Cementum</string>
 		<key>shortcut</key>
 		<string>o.ce</string>
 	</dict>
@@ -334,25 +334,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>muscularis mucosa</string>
+		<string>Muscularis mucosa</string>
 		<key>shortcut</key>
 		<string>gi.mm</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>muscularis externa</string>
+		<string>Muscularis externa</string>
 		<key>shortcut</key>
 		<string>gi.me</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>inner circular of muscularis externa</string>
+		<string>Inner Circular of Muscularis externa</string>
 		<key>shortcut</key>
 		<string>gi.mc</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>outer longitudinal of muscularis externa</string>
+		<string>Outer longitudinal of Muscularis externa</string>
 		<key>shortcut</key>
 		<string>gi.ml</string>
 	</dict>
@@ -364,7 +364,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>lymph nodule</string>
+		<string>Lymph nodule</string>
 		<key>shortcut</key>
 		<string>lym1</string>
 	</dict>
@@ -382,7 +382,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>stomach</string>
+		<string>Stomach</string>
 		<key>shortcut</key>
 		<string>sto</string>
 	</dict>
@@ -400,19 +400,19 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>gastric gland</string>
+		<string>Gastric gland</string>
 		<key>shortcut</key>
 		<string>gas.g</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>mucous neck cell</string>
+		<string>Mucous neck cell</string>
 		<key>shortcut</key>
 		<string>gas.n</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>parietal cell</string>
+		<string>Parietal cell</string>
 		<key>shortcut</key>
 		<string>gas.p</string>
 	</dict>
@@ -424,25 +424,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>enteroendocrine cell</string>
+		<string>Enteroendocrine cell</string>
 		<key>shortcut</key>
 		<string>gas.endo</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>intestine</string>
+		<string>Intestine</string>
 		<key>shortcut</key>
 		<string>in</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>goblet cell</string>
+		<string>Goblet cell</string>
 		<key>shortcut</key>
 		<string>gb</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>duodenum</string>
+		<string>Duodenum</string>
 		<key>shortcut</key>
 		<string>du</string>
 	</dict>
@@ -454,31 +454,31 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>columnar absorptive cell</string>
+		<string>Columnar absorptive cell</string>
 		<key>shortcut</key>
 		<string>sin.c0</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>goblet cell</string>
+		<string>Goblet cell</string>
 		<key>shortcut</key>
 		<string>sin.gb</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>paneth cell</string>
+		<string>Paneth cell</string>
 		<key>shortcut</key>
 		<string>sin.p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>paneth cell</string>
+		<string>Paneth cell</string>
 		<key>shortcut</key>
 		<string>sin.c1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>enteroendocrine cell</string>
+		<string>Enteroendocrine cell</string>
 		<key>shortcut</key>
 		<string>sin.endo</string>
 	</dict>
@@ -490,13 +490,13 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>intestinal gland</string>
+		<string>Intestinal gland</string>
 		<key>shortcut</key>
 		<string>sin.g1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>circular fold</string>
+		<string>Circular fold</string>
 		<key>shortcut</key>
 		<string>sin.fold</string>
 	</dict>
@@ -514,49 +514,49 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>columnar absorptive cells</string>
+		<string>Columnar absorptive cells</string>
 		<key>shortcut</key>
 		<string>lin.epi</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>columnar absorptive cells</string>
+		<string>Columnar absorptive cells</string>
 		<key>shortcut</key>
 		<string>lin.c0</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>goblet cell</string>
+		<string>Goblet cell</string>
 		<key>shortcut</key>
 		<string>lin.gb</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>enteroendocrine cells</string>
+		<string>Enteroendocrine cells</string>
 		<key>shortcut</key>
 		<string>lin.endo</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>vermiform appendix</string>
+		<string>Vermiform Appendix</string>
 		<key>shortcut</key>
 		<string>闌尾</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>vermiform appendix</string>
+		<string>Vermiform Appendix</string>
 		<key>shortcut</key>
-		<string>ap</string>
+		<string>ap </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>large intestinal gland</string>
+		<string>large Intestinal gland</string>
 		<key>shortcut</key>
 		<string>lin.g</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>taenia coli</string>
+		<string>Taenia coli</string>
 		<key>shortcut</key>
 		<string>lin.me</string>
 	</dict>
@@ -568,19 +568,19 @@
 		<key>phrase</key>
 		<string>bile duct</string>
 		<key>shortcut</key>
-		<string>hep.b</string>
+		<string>h.b </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>branch of hepatic arterial</string>
 		<key>shortcut</key>
-		<string>hep.a</string>
+		<string>h.a </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>branch of hepatic portal vein</string>
 		<key>shortcut</key>
-		<string>hep.v</string>
+		<string>h.v </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -602,7 +602,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>kupffer cells</string>
+		<string>Kupffer cells</string>
 		<key>shortcut</key>
 		<string>h.k</string>
 	</dict>
@@ -614,37 +614,37 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>space of disse</string>
+		<string>space of Disse</string>
 		<key>shortcut</key>
 		<string>h.d</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>space of disse</string>
+		<string>space of Disse</string>
 		<key>shortcut</key>
 		<string>h.sp</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>endothelial cell</string>
+		<string>Endothelial cell</string>
 		<key>shortcut</key>
 		<string>h.vc</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>endothelial cell</string>
+		<string>Endothelial cell</string>
 		<key>shortcut</key>
 		<string>h.en</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>gallbladder</string>
+		<string>Gallbladder</string>
 		<key>shortcut</key>
 		<string>gall</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>mucosa fold</string>
+		<string>Mucosa fold</string>
 		<key>shortcut</key>
 		<string>gallfold</string>
 	</dict>
@@ -652,7 +652,7 @@
 		<key>phrase</key>
 		<string>serous acini</string>
 		<key>shortcut</key>
-		<string>pan.ex</string>
+		<string>pan.ex </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -662,7 +662,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>serous acinar cell</string>
+		<string>Serous acinar cell</string>
 		<key>shortcut</key>
 		<string>pan.ac</string>
 	</dict>
@@ -692,13 +692,13 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>islets of langerhans</string>
+		<string>Islets of Langerhans</string>
 		<key>shortcut</key>
-		<string>pan.endo</string>
+		<string>pan.endo </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>islets of langerhans</string>
+		<string>Islets of Langerhans</string>
 		<key>shortcut</key>
 		<string>pan.i</string>
 	</dict>
@@ -706,17 +706,17 @@
 		<key>phrase</key>
 		<string>afferent arteriole</string>
 		<key>shortcut</key>
-		<string>re.aa</string>
+		<string>re.aa </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>efferent arteriole</string>
 		<key>shortcut</key>
-		<string>re.ea</string>
+		<string>re.ea </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>bowman's space</string>
+		<string>Bowman's space</string>
 		<key>shortcut</key>
 		<string>re.b</string>
 	</dict>
@@ -752,55 +752,55 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>proximal convoluted tubule</string>
+		<string>Proximal convoluted tubule</string>
 		<key>shortcut</key>
 		<string>re.pct</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>distal convoluted tubule</string>
+		<string>Distal convoluted tubule</string>
 		<key>shortcut</key>
 		<string>re.dct</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>macula densa</string>
+		<string>Macula densa</string>
 		<key>shortcut</key>
 		<string>re.d</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>jg cell</string>
+		<string>JG cell</string>
 		<key>shortcut</key>
 		<string>re.jg</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>collecting tubules</string>
+		<string>Collecting tubules</string>
 		<key>shortcut</key>
 		<string>re.coll</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>thick descending limbs of henle`s loop</string>
+		<string>Thick descending limbs of Henle`s loop</string>
 		<key>shortcut</key>
 		<string>re.dh</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>thick descending limbs of henle`s loop</string>
+		<string>Thick descending limbs of Henle`s loop</string>
 		<key>shortcut</key>
 		<string>re.h1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>thick ascending limbs of henle`s loop</string>
+		<string>Thick ascending limbs of Henle`s loop</string>
 		<key>shortcut</key>
 		<string>re.ah</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>thick ascending limbs of henle`s loop</string>
+		<string>Thick ascending limbs of Henle`s loop</string>
 		<key>shortcut</key>
 		<string>re.h3</string>
 	</dict>
@@ -812,19 +812,19 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>thin segment of henles</string>
+		<string>thin segment of Henles</string>
 		<key>shortcut</key>
 		<string>re.th</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>thin segment of henles</string>
+		<string>thin segment of Henles</string>
 		<key>shortcut</key>
 		<string>re.h2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>endothelial cell</string>
+		<string>Endothelial cell</string>
 		<key>shortcut</key>
 		<string>endo</string>
 	</dict>
@@ -848,25 +848,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>circular of muscularis</string>
+		<string>Circular of muscularis</string>
 		<key>shortcut</key>
-		<string>ur.cm</string>
+		<string>ur.cm </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>circular of muscularis</string>
+		<string>Circular of muscularis</string>
 		<key>shortcut</key>
 		<string>ur.mc</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>urinary bladder</string>
+		<string>Urinary Bladder</string>
 		<key>shortcut</key>
 		<string>ur.b</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>urinary bladder</string>
+		<string>Urinary Bladder</string>
 		<key>shortcut</key>
 		<string>ub.</string>
 	</dict>
@@ -878,25 +878,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>intraepithelial gland</string>
+		<string>Intraepithelial gland</string>
 		<key>shortcut</key>
 		<string>ur.g1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>intraepithelial gland</string>
+		<string>Intraepithelial gland</string>
 		<key>shortcut</key>
 		<string>ur.gepi</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>littre gland</string>
+		<string>Littre gland</string>
 		<key>shortcut</key>
 		<string>ur.g2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>littre gland</string>
+		<string>Littre gland</string>
 		<key>shortcut</key>
 		<string>ur.gl</string>
 	</dict>
@@ -908,37 +908,37 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>tunica albuginea</string>
+		<string>Tunica albuginea</string>
 		<key>shortcut</key>
 		<string>t.ct2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>seminiferous tubule</string>
+		<string>Seminiferous tubule</string>
 		<key>shortcut</key>
 		<string>t.t</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>seminiferous tubule</string>
+		<string>Seminiferous tubule</string>
 		<key>shortcut</key>
 		<string>t.1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>interstitial tissue</string>
+		<string>Interstitial tissue</string>
 		<key>shortcut</key>
 		<string>t.ct1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>spermatogonia</string>
+		<string>Spermatogonia</string>
 		<key>shortcut</key>
 		<string>t.s0</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>primary spermatocyte</string>
+		<string>Primary spermatocyte</string>
 		<key>shortcut</key>
 		<string>t.s1</string>
 	</dict>
@@ -956,25 +956,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>sertoli cell</string>
+		<string>Sertoli cell</string>
 		<key>shortcut</key>
 		<string>t.s</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>leydig cell</string>
+		<string>Leydig cell</string>
 		<key>shortcut</key>
 		<string>t.l</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>myoid cell</string>
+		<string>Myoid cell</string>
 		<key>shortcut</key>
 		<string>t.m</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>epididymis</string>
+		<string>Epididymis</string>
 		<key>shortcut</key>
 		<string>epd.0</string>
 	</dict>
@@ -1016,31 +1016,31 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ductus deferens</string>
+		<string>Ductus deferens</string>
 		<key>shortcut</key>
 		<string>dd.</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>seminal vesicle</string>
+		<string>Seminal vesicle</string>
 		<key>shortcut</key>
 		<string>sv.</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>prostatic gland</string>
+		<string>Prostatic gland</string>
 		<key>shortcut</key>
 		<string>pg.0</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>prostatic concretions</string>
+		<string>Prostatic concretions</string>
 		<key>shortcut</key>
 		<string>pg.1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>fibromuscular stroma</string>
+		<string>Fibromuscular stroma</string>
 		<key>shortcut</key>
 		<string>pg.2</string>
 	</dict>
@@ -1052,13 +1052,13 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>tunica albuginea</string>
+		<string>Tunica albuginea</string>
 		<key>shortcut</key>
 		<string>pen.ct1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>deep fascia</string>
+		<string>Deep fascia</string>
 		<key>shortcut</key>
 		<string>pen.ct2</string>
 	</dict>
@@ -1070,31 +1070,31 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>corpra carverosum</string>
+		<string>Corpra carverosum</string>
 		<key>shortcut</key>
 		<string>pen.1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>corpra carverosum</string>
+		<string>Corpra carverosum</string>
 		<key>shortcut</key>
 		<string>pen.cc</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>corpus spongiosum</string>
+		<string>Corpus spongiosum</string>
 		<key>shortcut</key>
 		<string>pen.2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>corpus spongiosum</string>
+		<string>Corpus spongiosum</string>
 		<key>shortcut</key>
 		<string>pen.cs</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>endothelium</string>
+		<string>Endothelium</string>
 		<key>shortcut</key>
 		<string>pen.en</string>
 	</dict>
@@ -1106,13 +1106,13 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>tunica albuginea</string>
+		<string>Tunica albuginea</string>
 		<key>shortcut</key>
 		<string>ov.ct</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>primordial follicles</string>
+		<string>Primordial follicles</string>
 		<key>shortcut</key>
 		<string>ov.s0</string>
 	</dict>
@@ -1130,9 +1130,9 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>primary follicles</string>
+		<string>Primary follicles</string>
 		<key>shortcut</key>
-		<string>ov.s1</string>
+		<string>ov.s1 </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1148,7 +1148,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>stratum granulosum</string>
+		<string>Stratum granulosum</string>
 		<key>shortcut</key>
 		<string>ov.f11</string>
 	</dict>
@@ -1172,13 +1172,13 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>stratum granulosum</string>
+		<string>Stratum granulosum</string>
 		<key>shortcut</key>
 		<string>ov.sg</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>secondary follicles</string>
+		<string>Secondary follicles</string>
 		<key>shortcut</key>
 		<string>ov.s2</string>
 	</dict>
@@ -1208,7 +1208,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>mature follicle</string>
+		<string>Mature follicle</string>
 		<key>shortcut</key>
 		<string>ov.m</string>
 	</dict>
@@ -1238,13 +1238,13 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>atretic follicle</string>
+		<string>Atretic follicle</string>
 		<key>shortcut</key>
 		<string>ov.gg</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>corpus luteum</string>
+		<string>Corpus luteum</string>
 		<key>shortcut</key>
 		<string>ov.y</string>
 	</dict>
@@ -1262,7 +1262,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>corpus albicans</string>
+		<string>Corpus albicans</string>
 		<key>shortcut</key>
 		<string>ov.w</string>
 	</dict>
@@ -1270,7 +1270,7 @@
 		<key>phrase</key>
 		<string>theca interna</string>
 		<key>shortcut</key>
-		<string>ov.ti</string>
+		<string>ov.ti </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1282,11 +1282,11 @@
 		<key>phrase</key>
 		<string>follicular fluid</string>
 		<key>shortcut</key>
-		<string>ov.ff</string>
+		<string>ov.ff </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>uterine tube</string>
+		<string>Uterine tube</string>
 		<key>shortcut</key>
 		<string>ut.1</string>
 	</dict>
@@ -1310,7 +1310,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>endometrium</string>
+		<string>Endometrium</string>
 		<key>shortcut</key>
 		<string>ut.l1</string>
 	</dict>
@@ -1328,25 +1328,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>myometrium</string>
+		<string>Myometrium</string>
 		<key>shortcut</key>
 		<string>ut.l2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>longitudinal myometrium</string>
+		<string>longitudinal Myometrium</string>
 		<key>shortcut</key>
-		<string>ut.ml</string>
+		<string>ut.ml </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>circular myometrium</string>
+		<string>Circular Myometrium</string>
 		<key>shortcut</key>
 		<string>ut.mc</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>perimetrium</string>
+		<string>Perimetrium</string>
 		<key>shortcut</key>
 		<string>ut.l3</string>
 	</dict>
@@ -1364,7 +1364,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>mammary gland</string>
+		<string>Mammary gland</string>
 		<key>shortcut</key>
 		<string>mm.0</string>
 	</dict>
@@ -1384,7 +1384,7 @@
 		<key>phrase</key>
 		<string>acinar cells</string>
 		<key>shortcut</key>
-		<string>mm.c1</string>
+		<string>mm.c1 </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1396,7 +1396,7 @@
 		<key>phrase</key>
 		<string>myoepithelial cell</string>
 		<key>shortcut</key>
-		<string>mm.c2</string>
+		<string>mm.c2 </string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1406,43 +1406,43 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>interlobar tissue</string>
+		<string>Interlobar tissue</string>
 		<key>shortcut</key>
 		<string>mm.ct3</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>interlobular tissue</string>
+		<string>Interlobular tissue</string>
 		<key>shortcut</key>
 		<string>mm.ct2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>intralobular tissue</string>
+		<string>Intralobular tissue</string>
 		<key>shortcut</key>
 		<string>mm.ct1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>pituitary gland</string>
+		<string>Pituitary gland</string>
 		<key>shortcut</key>
 		<string>pi.0</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>pars distalis</string>
+		<string>Pars distalis</string>
 		<key>shortcut</key>
 		<string>pi.ant</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>pars intermedia</string>
+		<string>Pars intermedia</string>
 		<key>shortcut</key>
 		<string>pi.mid</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>pars nervosa</string>
+		<string>Pars nervosa</string>
 		<key>shortcut</key>
 		<string>pi.post</string>
 	</dict>
@@ -1460,13 +1460,13 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>acidophils</string>
+		<string>Acidophils</string>
 		<key>shortcut</key>
 		<string>pi.ga</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>basophils</string>
+		<string>Basophils</string>
 		<key>shortcut</key>
 		<string>pi.gb</string>
 	</dict>
@@ -1490,7 +1490,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>herring bodies</string>
+		<string>Herring bodies</string>
 		<key>shortcut</key>
 		<string>pi.h</string>
 	</dict>
@@ -1508,25 +1508,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>herring bodies</string>
+		<string>Herring bodies</string>
 		<key>shortcut</key>
 		<string>pi.p2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>thyroid gland</string>
+		<string>Thyroid gland</string>
 		<key>shortcut</key>
 		<string>thy.0</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>thyroid follicles</string>
+		<string>Thyroid follicles</string>
 		<key>shortcut</key>
 		<string>thy.f</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>thyroid follicles</string>
+		<string>Thyroid follicles</string>
 		<key>shortcut</key>
 		<string>thy.1</string>
 	</dict>
@@ -1556,7 +1556,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>parathyroid gland</string>
+		<string>Parathyroid gland</string>
 		<key>shortcut</key>
 		<string>pth.0</string>
 	</dict>
@@ -1574,7 +1574,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>adrenal gland</string>
+		<string>Adrenal gland</string>
 		<key>shortcut</key>
 		<string>ad.0</string>
 	</dict>
@@ -1622,7 +1622,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>pineal gland</string>
+		<string>Pineal gland</string>
 		<key>shortcut</key>
 		<string>pin.0</string>
 	</dict>
@@ -1652,7 +1652,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>brain sand</string>
+		<string>Brain sand</string>
 		<key>shortcut</key>
 		<string>pin.bs</string>
 	</dict>
@@ -1694,73 +1694,73 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>type i alveolar cell</string>
+		<string>type I alveolar cell</string>
 		<key>shortcut</key>
 		<string>re.1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>type ii alveolar cell</string>
+		<string>type II alveolar cell</string>
 		<key>shortcut</key>
 		<string>re.2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>pacinian corpuscle</string>
+		<string>Pacinian corpuscle</string>
 		<key>shortcut</key>
 		<string>ins.n1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>pacinian corpuscle</string>
+		<string>Pacinian corpuscle</string>
 		<key>shortcut</key>
 		<string>ins.np</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>meissner corpuscles</string>
+		<string>Meissner corpuscles</string>
 		<key>shortcut</key>
 		<string>ins.n2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>meissner corpuscles</string>
+		<string>Meissner corpuscles</string>
 		<key>shortcut</key>
 		<string>ins.nc</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>melanocytes</string>
+		<string>Melanocytes</string>
 		<key>shortcut</key>
 		<string>int.m</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>melanocytes</string>
+		<string>Melanocytes</string>
 		<key>shortcut</key>
 		<string>int.c2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>langerhans cell</string>
+		<string>Langerhans cell</string>
 		<key>shortcut</key>
 		<string>ins.l</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>langerhans cell</string>
+		<string>Langerhans cell</string>
 		<key>shortcut</key>
 		<string>ins.c1</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>merkel cell</string>
+		<string>Merkel cell</string>
 		<key>shortcut</key>
 		<string>ins.mk</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>merkel cell</string>
+		<string>Merkel cell</string>
 		<key>shortcut</key>
 		<string>ins.c3</string>
 	</dict>

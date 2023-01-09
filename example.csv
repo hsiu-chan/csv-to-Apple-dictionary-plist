@@ -24,7 +24,7 @@ Muscularis mucosa,mm
 Muscularis externa,me
 longitudinal of muscularis,ml 
 Circular of muscularis,mc
-adventitia,ad
+adventitia,adv
 keratinized,ke
 nonkeratinized,nonke
 vallate,va,nonkeratinized
@@ -92,9 +92,9 @@ Vermiform Appendix,ap
 large Intestinal gland,lin.g
 Taenia coli,lin.me
 lymph nodule.lin.lym
-bile duct,hep.b 
-branch of hepatic arterial,hep.a 
-branch of hepatic portal vein,hep.v 
+bile duct,h.b 
+branch of hepatic arterial,h.a 
+branch of hepatic portal vein,h.v 
 hepatic cord,h.cd,肝細胞一條
 hepatic cord,h.cl,肝細胞一條
 hepatocytes,h.c,核大淡染核仁明顯
